@@ -1,0 +1,31 @@
+{
+  "name": "cxgphper/swoft-limiter",
+  "description": "The component is a current limiter based on swoft Redis component that can be executed a limited number of times in a limited time.",
+  "keywords": [
+    "cxgphper",
+    "php",
+    "swoole",
+    "swoft",
+    "limiter"
+  ],
+  "type": "library",
+  "require": {
+    "php": ">=7.1",
+    "swoft/stdlib": "~2.0.0",
+    "swoft/redis": "~2.0.0",
+    "symfony/expression-language": "~4.3"
+  },
+  "minimum-stability": "dev",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "cxgphper",
+      "email": "cxgphper@163.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Cxgphper\\": "src/"
+    }
+  }
+}
