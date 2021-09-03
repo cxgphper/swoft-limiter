@@ -1,6 +1,7 @@
 {
   "name": "cxgphper/swoft-limiter",
   "description": "The component is a current limiter based on swoft Redis component that can be executed a limited number of times in a limited time.",
+  "homepage": "https://github.com/cxgphper/swoft-limiter",
   "keywords": [
     "cxgphper",
     "php",
