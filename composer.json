@@ -16,7 +16,7 @@
     "swoft/redis": "~2.0.0",
     "symfony/expression-language": "~4.3"
   },
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "license": "Apache-2.0",
   "authors": [
     {
